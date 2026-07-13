@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Alaaeldin Elhenawy 👋</h1>
+<h1 align="center">Hi, I'm Alaa 👋</h1>
 <p align="center">
   <b>AI &amp; Real-Time Systems Engineer · Solution Architect</b> — I design and build agentic AI that joins the conversation, live.
 </p>
